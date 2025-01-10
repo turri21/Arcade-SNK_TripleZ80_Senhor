@@ -1,3 +1,8 @@
+-=(SNK_TripleZ80_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # SNK Triple Z80 Arcade Core (WIP)
 ![SNK logo](/docs/snk_corp_logo.png)
 ![Game Flyer](/docs/ASO_logo.jpg)
